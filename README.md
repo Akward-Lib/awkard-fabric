@@ -1,13 +1,11 @@
-# Fabric Example Mod
+# Awkard
 
-# Stuff
-This template mod, in addition to the features of the standard template mod,
-also has an example test mod as well as an example gametest setup. It uses Mojang
-mappings primarily, but also uses Quilt Mappings for Javadocs and parameter names.
+Awkard is a Minecraft mod that adds energy handling and porting utilities. This fabric version includes:
 
-## Setup
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the
-IDE that you are using.
+Energy module (included Porting Lib and TechReborn energy api)
 
-## License
-This template is available under the MIT license. Feel free to learn from it and incorporate it in your own projects.
+Porting module (included Porting Lib, Milk Lib and Registrate Refabricated)
+
+Registry module (included Porting Lib, Registrate Refabricated, DeferredRegistries)
+
+Forge Version not includes the 3 modules, only the Registry module without Porting lib and DeferredRegistries, and the Forge version of Registrate
