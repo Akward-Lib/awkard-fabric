@@ -41,7 +41,7 @@ dependencies {
 		it.officialMojangMappings {
 			setNameSyntheticMembers(false)
 		}
-	}
+	
 	
 
 	// dependencies
