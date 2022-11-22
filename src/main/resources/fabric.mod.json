@@ -21,9 +21,7 @@
       "io.github.tropheusj.modid.test.ExampleModGameTest"
     ]
   },
-  "mixins": [
-    "modid.mixins.json"
-  ],
+
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric-api": ">=${fabric_version}",
